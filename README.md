@@ -1,5 +1,9 @@
 # BTS判定　プライバシーポリシー / Guess BTS App Privacy Policy
 
+- 本サービスの提供のため、ユーザーの肖像を含む静止画情報を取得します。
+
+- In order to provide this service, we acquire still image information including user portraits.
+
 - 第三者に個人を特定できる情報を提供することはありません。個人情報の管理には細心の注意を払い、以下に掲げた通りに扱います。
 
 - We will not provide information that can identify individuals to third parties. Pay close attention to the management of personal information and treat it as listed below.
